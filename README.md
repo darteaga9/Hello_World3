@@ -1,2 +1,4 @@
 # Hello_World3
-the first repository - tutorial 1 for period .3
+<h1>Rattlers Win Again!</h1>
+<b>STRIKE `EM</b>
+whahhhhhh?<p>Prof. Farnsworth
